@@ -1,14 +1,15 @@
-# ⛩️ Niko Honu 
+# ⛩️ Niko Honu
 
 **`Software developer`**
 
-I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks). 
+I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks).
 
 Currently I am focused on improving my skills in writing README.md, CHANGELOG.md, commit message, etc.
 
 My current main project is [shiki-orgnizer](https://github.com/nikohonu/shiki-organizer).
 
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -24,4 +25,12 @@ My current main project is [shiki-orgnizer](https://github.com/nikohonu/shiki-or
 #
 
 ### 📈 Statistics
+
 ![Niko Honu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikohonu&show_icons=true&theme=tokyonight)
+
+<details>
+  <summary>Most Used Languages</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikohonu&hide=jupyter+notebook,html,css&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
+
+</details>
