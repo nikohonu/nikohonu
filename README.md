@@ -1,16 +1,27 @@
-### Hi there 👋
+# ⛩️ Niko Honu 
 
-<!--
-**nikohonu/nikohonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Software developer`**
 
-Here are some ideas to get you started:
+I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I am focused on improving my skills in writing README.md, CHANGELOG.md, commit message, etc.
+
+My current main project is [shiki-orgnizer](https://github.com/nikohonu/shiki-organizer).
+
+---
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+ <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+<img align="left" alt="Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Firefox" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
+<img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<br />
+
+#
+
+### 📈 Statistics
+![Niko Honu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikohonu&show_icons=true&theme=tokyonight)
