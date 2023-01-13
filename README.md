@@ -26,11 +26,11 @@ My current main project is [shiki-orgnizer](https://github.com/nikohonu/shiki-or
 
 ### 📈 Statistics
 
-![Niko Honu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikohonu&show_icons=true&theme=tokyonight)
+![Niko Honu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikohonu&theme=tokyonight)
 
 <details>
   <summary>Most Used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikohonu&hide=jupyter+notebook,html,css&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikohonu&theme=tokyonight)
 
 </details>
