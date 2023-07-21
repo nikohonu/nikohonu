@@ -4,10 +4,6 @@
 
 I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks).
 
-Currently I am focused on improving my skills in writing README.md, CHANGELOG.md, commit message, etc.
-
-My current main project is [shiki-orgnizer](https://github.com/nikohonu/shiki-organizer).
-
 ---
 
 ### 🧰 Languages and Tools
