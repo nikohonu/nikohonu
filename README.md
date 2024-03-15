@@ -5,7 +5,6 @@
 I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks).
 
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -18,7 +17,9 @@ I am a software developer specializing in creating desktop applications that hel
 <img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <br />
 
-#
+# 
+
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 ### 📈 Statistics
 
