@@ -1,10 +1,5 @@
 # ⛩️ Niko Honu
 
-**`Software developer`**
-
-I am a software developer specializing in creating desktop applications that help me solve my tasks and maybe yours (if you solve similar tasks).
-
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
